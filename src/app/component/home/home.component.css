@@ -1,0 +1,11 @@
+.text-center {
+  text-align: center;
+}
+
+.clock {
+  font-family: 'digi';
+  background-color: skyblue;
+  text-align: center;
+  font-size:30px;
+}
+
